@@ -1,0 +1,2 @@
+MapSkyline its a Web application that uses algorithms for calculating de Skyline of a set of spacial points from a data base. It uses C++ Code and PHP and Jquery  for de Web interface.
+Its developed for research proposites.
